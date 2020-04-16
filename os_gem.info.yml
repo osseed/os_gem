@@ -1,0 +1,26 @@
+name: OS Gem
+type: profile
+description: 'Installation profile with minimum configurations.'
+version: VERSION
+core: 8.x
+install:
+  - node
+  - block
+  - ckeditor
+  - config
+  - menu_link_content
+  - editor
+  - image
+  - menu_ui
+  - options
+  - path
+  - page_cache
+  - dynamic_page_cache
+  - big_pipe
+  - taxonomy
+  - toolbar
+  - file
+  - views
+  - automated_cron
+themes:
+  - claro
