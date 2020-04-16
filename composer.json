@@ -2,6 +2,7 @@
     "name": "osseed/os_gem",
     "description": "Initial installation profile for D8.",
     "type": "drupal-profile",
+    "license": "GPL-2.0-or-later",
     "authors": [
         {
             "name": "OSSeed Technologies",
