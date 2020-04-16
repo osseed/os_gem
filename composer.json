@@ -1,0 +1,13 @@
+{
+    "name": "osseed/os_gem",
+    "description": "Initial installation profile for D8.",
+    "type": "drupal-profile",
+    "authors": [
+        {
+            "name": "OSSeed Technologies",
+            "email": "hello@osseed.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
